@@ -1,5 +1,7 @@
 # Minimalist Raylib C99 Game Template for Any IDE/Editor
-A quick start template for Raylib with Raytmx just in 1  MB size for any IDE/Code Editor of Windows .
+* Platform: Windows
+* IDE/Editor: Any
+* Compiler: MinGW-w64 Bit
 ***
 Just open download this repository as ZIP and Unzip it.Write your code at main.c.
 You can create folders/files here as much as you need to make structured project.But Don't delete/alter prebuilt ones!
